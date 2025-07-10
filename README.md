@@ -1,2 +1,2 @@
-- (CVE-2024-48962)[https://www.cve.org/CVERecord?id=CVE-2024-48962]
-- (CVE-2025-53628)[https://github.com/yhirose/cpp-httplib/security/advisories/GHSA-j6p8-779x-p5pw]
+- [CVE-2024-48962](https://www.cve.org/CVERecord?id=CVE-2024-48962) - simple redirection -> SSTI to RCE with Freemarker sandbox bypass
+- [CVE-2025-53628](https://github.com/yhirose/cpp-httplib/security/advisories/GHSA-j6p8-779x-p5pw) - HTTP Header Smuggling due to insecure trailers merge
